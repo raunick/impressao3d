@@ -1,7 +1,2 @@
 pandas
 streamlit
-dataclasses
-json
-os
-datetime
-typing
